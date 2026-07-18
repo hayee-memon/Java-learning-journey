@@ -1,6 +1,6 @@
 # Java Practice
 
-Java practice repository — code samples aur mini-projects jo main Java seekhte hue bana raha hoon.
+A collection of Java programs and mini-projects built while learning core Java concepts.
 
 ## About
 CS Student | Aspiring Java Developer
